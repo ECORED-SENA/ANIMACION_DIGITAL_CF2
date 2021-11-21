@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="313" height="313" viewBox="0 0 313 313">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d44f4a"/>
+      <stop offset="1" stop-color="#fa9300"/>
+    </linearGradient>
+    <filter id="Rectángulo_9203" x="0" y="0" width="313" height="313" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_67509" data-name="Grupo 67509" transform="translate(-804.264 -19009)">
+    <g transform="matrix(1, 0, 0, 1, 804.26, 19009)" filter="url(#Rectángulo_9203)">
+      <rect id="Rectángulo_9203-2" data-name="Rectángulo 9203" width="295" height="295" rx="20" transform="translate(9 6)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="Trazado_134683" data-name="Trazado 134683" d="M-10786.7,7555.6l33.4-90,55.3,48,30-104,55.3,30.7,39.3-82" transform="translate(11640.465 11705.2)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="6"/>
+  </g>
+</svg>

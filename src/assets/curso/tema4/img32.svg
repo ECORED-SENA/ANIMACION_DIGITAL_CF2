@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="313" height="313" viewBox="0 0 313 313">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d44f4a"/>
+      <stop offset="1" stop-color="#a73e3a"/>
+    </linearGradient>
+    <filter id="Rectángulo_9182" x="0" y="0" width="313" height="313" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_9194">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.38" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_9195">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.38" result="color-2"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-3"/>
+      <feComposite operator="in" in="color-2"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_9196">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.38" result="color-3"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-4"/>
+      <feComposite operator="in" in="color-3"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_9198">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.38" result="color-4"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-5"/>
+      <feComposite operator="in" in="color-4"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_67505" data-name="Grupo 67505" transform="translate(-804.264 -17332)">
+    <g transform="matrix(1, 0, 0, 1, 804.26, 17332)" filter="url(#Rectángulo_9182)">
+      <rect id="Rectángulo_9182-2" data-name="Rectángulo 9182" width="295" height="295" rx="20" transform="translate(9 6)" fill="url(#linear-gradient)"/>
+    </g>
+    <g data-type="innerShadowGroup">
+      <rect id="Rectángulo_9194-2" data-name="Rectángulo 9194" width="106" height="63" transform="translate(908.264 17432)" fill="#fff"/>
+      <g transform="matrix(1, 0, 0, 1, 804.26, 17332)" filter="url(#Rectángulo_9194)">
+        <rect id="Rectángulo_9194-3" data-name="Rectángulo 9194" width="106" height="63" transform="translate(104 100)" fill="#fff"/>
+      </g>
+    </g>
+    <g data-type="innerShadowGroup">
+      <rect id="Rectángulo_9195-2" data-name="Rectángulo 9195" width="61" height="39" transform="translate(908.264 17501)" fill="#fff"/>
+      <g transform="matrix(1, 0, 0, 1, 804.26, 17332)" filter="url(#Rectángulo_9195)">
+        <rect id="Rectángulo_9195-3" data-name="Rectángulo 9195" width="61" height="39" transform="translate(104 169)" fill="#fff"/>
+      </g>
+    </g>
+    <g data-type="innerShadowGroup">
+      <rect id="Rectángulo_9196-2" data-name="Rectángulo 9196" width="37" height="24" transform="translate(977.264 17516)" fill="#fff"/>
+      <g transform="matrix(1, 0, 0, 1, 804.26, 17332)" filter="url(#Rectángulo_9196)">
+        <rect id="Rectángulo_9196-3" data-name="Rectángulo 9196" width="37" height="24" transform="translate(173 184)" fill="#fff"/>
+      </g>
+    </g>
+    <g data-type="innerShadowGroup">
+      <rect id="Rectángulo_9198-2" data-name="Rectángulo 9198" width="13" height="11" transform="translate(977.264 17501)" fill="#fff"/>
+      <g transform="matrix(1, 0, 0, 1, 804.26, 17332)" filter="url(#Rectángulo_9198)">
+        <rect id="Rectángulo_9198-3" data-name="Rectángulo 9198" width="13" height="11" transform="translate(173 169)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

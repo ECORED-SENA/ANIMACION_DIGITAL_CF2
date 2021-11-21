@@ -7,6 +7,7 @@ Tema 3
 
 Tema 4
 - Los iconos de las tarjetas con boton deben tener el mismo tamaño
+- No se encuentra link del Video de "El punto"
 
 Tema 5
 - No se encuentra los link de los recursos al final del tema

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="313" height="313" viewBox="0 0 313 313">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d44f4a"/>
+      <stop offset="1" stop-color="#fa9300"/>
+    </linearGradient>
+    <filter id="Rectángulo_9226" x="0" y="0" width="313" height="313" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Línea_119" x="112" y="62" width="24" height="190" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Línea_120" x="177" y="62" width="24" height="190" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_67514" data-name="Grupo 67514" transform="translate(-171.264 -20537)">
+    <g transform="matrix(1, 0, 0, 1, 171.26, 20537)" filter="url(#Rectángulo_9226)">
+      <rect id="Rectángulo_9226-2" data-name="Rectángulo 9226" width="295" height="295" rx="20" transform="translate(9 6)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Grupo_65449" data-name="Grupo 65449" transform="translate(27.764 5.5)">
+      <g transform="matrix(1, 0, 0, 1, 143.5, 20531.5)" filter="url(#Línea_119)">
+        <line id="Línea_119-2" data-name="Línea 119" y2="166" transform="translate(124 71)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="6"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 143.5, 20531.5)" filter="url(#Línea_120)">
+        <line id="Línea_120-2" data-name="Línea 120" y2="166" transform="translate(189 71)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="6"/>
+      </g>
+    </g>
+  </g>
+</svg>
