@@ -1810,14 +1810,15 @@ div
       //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
       //- estas clases tambien tienen un modificador --borde
-      .tarjeta--boton.color-primario.p-4
-        .row.justify-content-center.mb-3
-          .col-7
-            figure
-              img(src='@/assets/componentes/ej-03.svg', alt='Texto que describa la imagen')
+      a(href="https://www.eltiempo.com/" target="_blank")
+        .tarjeta--boton.color-primario.p-4
+          .row.justify-content-center.mb-3
+            .col-7
+              figure
+                img(src='@/assets/componentes/ej-03.svg', alt='Texto que describa la imagen')
 
-        h3.text-center Intuition important
-        p.text-small Sed ut perspiciatis unde omnis iste natus error sit vtatem accusa ntium dol.
+          h3.text-center Intuition important
+          p.text-small Sed ut perspiciatis unde omnis iste natus error sit vtatem accusa ntium dol.
 
     .col-sm-6.col-lg-3.mb-4.mb-lg-0
       //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
@@ -1835,7 +1836,7 @@ div
     .col-sm-6.col-lg-3.mb-4.mb-sm-0
       //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-      //- estas clases tambien tienen un modificador --borde
+      //- estas clases tambien tienen un modificador --borde    
       .tarjeta--boton.color-acento-contenido.text-white--hover.p-4
         .row.justify-content-center.mb-3
           .col-7

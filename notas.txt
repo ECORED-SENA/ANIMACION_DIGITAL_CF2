@@ -5,5 +5,8 @@ Tema 1
 Tema 3
 - No se encuentra los link de los recursos al final del tema
 
+Tema 4
+- Los iconos de las tarjetas con boton deben tener el mismo tamaño
+
 Tema 5
 - No se encuentra los link de los recursos al final del tema
