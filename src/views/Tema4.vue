@@ -15,13 +15,13 @@
       .bloque-texto-g__texto.p-5
         p.mb-0 El dibujo es una forma expresión humana y una de las más efectivas, ya que bien ejecutado es capaz de superar incluso la barrera del idioma, tanto así que algunos se han constituido en símbolos que son mundialmente utilizados para representar conceptos específicos; por ejemplo, la señal de prohibido o las figuras de hombre y mujer que se ponen en la entrada de los baños públicos.<br><br>En su definición más básica, el dibujo es el arte de representar objetos mediante el uso de líneas sobre una superficie, y es una de las formas más sencillas de representación gráfica.
       
-    p.mb-5 Actualmente, las técnicas de dibujo se dividen en dos grandes ramas definidas principalmente por la naturaleza de las herramientas usadas y estas son las técnicas análogas y las digitales. Las técnicas análogas hacen referencia a todas aquellas que hacen uso de instrumentos o herramientas tradicionales como lo son el lápiz y el papel principalmente, aunque no se restringen solo a estos 2, mientras que las digitales hacen uso de computadores y una amplia gama de herramientas tanto de hardware como de software.
+    p.mb-5 Actualmente, las técnicas de dibujo se dividen en dos grandes ramas definidas principalmente por la naturaleza de las herramientas usadas y estas son las técnicas análogas y las digitales. Las técnicas análogas hacen referencia a todas aquellas que hacen uso de instrumentos o herramientas tradicionales como lo son el lápiz y el papel principalmente, aunque no se restringen solo a estos 2, mientras que las digitales hacen uso de computadores y una amplia gama de herramientas tanto de <i>hardware</i> como de <i>software</i>.
     
     .row.justify-content-center.t1-fondo1.pb-5
       .col-10.pt-5.px-4
         figure.mb-5
           img(src='@/assets/curso/tema4/img02.png') 
-        p.mb-0 A su vez dentro de estas 2 ramas existen un gran abanico de categorías, las cuales se definen principalmente por el tipo de materiales que se emplean para realizarlas; por ejemplo, técnicas secas o aguadas dentro de las análogas o técnicas vectoriales o mapas de bits para el caso de las digitales. Sin embargo, al ser la intención de este documento hacer una introducción básica se abordarán una serie de conceptos útiles para realizar una representación gráfica de ideas simple y efectiva orientada a la realización de storyboard.
+        p.mb-0 A su vez dentro de estas 2 ramas existen un gran abanico de categorías, las cuales se definen principalmente por el tipo de materiales que se emplean para realizarlas; por ejemplo, técnicas secas o aguadas dentro de las análogas o técnicas vectoriales o mapas de <i>bits</i> para el caso de las digitales. Sin embargo, al ser la intención de este documento hacer una introducción básica se abordarán una serie de conceptos útiles para realizar una representación gráfica de ideas simple y efectiva orientada a la realización de <i>storyboard</i>.
     
     Separador 
 
@@ -40,7 +40,7 @@
       LineaTiempoD.color-secundario
         div(numero="A" titulo="Lápices y portamina")    
           p.mb-4 El lápiz es un instrumento para dibujo o escritura que consiste habitualmente en una barra (conocida también como mina) compuesta de una mezcla de grafito y arcilla o cera encapsulada en un cilindro de madera (actualmente se usan muchos otros materiales como plástico, papel, etc.) que le da soporte a la mina, también son fabricados de colores mediante el uso de diferentes pigmentos, pero para dibujo el más usado suele ser el lápiz de grafito.
-          p.mb-5 Los lápices de grafito se marcan con letras y números según la composición de la mina usando la H (del inglés Hard) para las minas duras y la B (del inglés Back) para las minas blandas, entre más dura sea la mina más claro será el trazo dejado por el lápiz y en contraposición, entre más blanda sea la mina más oscuro será el trazo debido a que así el lápiz deja sobre el soporte mayor cantidad de grafito.
+          p.mb-5 Los lápices de grafito se marcan con letras y números según la composición de la mina usando la H (del inglés Hard) para las minas duras y la B (del inglés Back) para las minas blandas.
           figure.mb-5
             img(src='@/assets/curso/tema4/img04.svg') 
           p.mb-0 El portaminas es otro instrumento de dibujo análogo al lápiz con la diferencia de que tiene un sistema mecánico para proveer las minas, las cuales se pueden reemplazar una vez se acaban.
@@ -51,7 +51,7 @@
             img(src='@/assets/curso/tema4/img05.png') 
 
         div(numero="C" titulo="Sacapuntas y bisturí")  
-          p.mb-5 Los sacapuntas son utensilios usados para desbastar el recubrimiento de madera de los lápices a medida que se va desgastando la mina, existen muchos modelos de sacapuntas, pero su finalidad es la misma, también es común hacer uso de cuchillas como los bisturí para hacer el desbaste de la madera y afilar las puntas de las minas a medida que se gastan.
+          p.mb-5 Los sacapuntas son utensilios usados para desbastar el recubrimiento de madera de los lápices a medida que se va desgastando la mina, existen muchos modelos de sacapuntas, pero su finalidad es la misma, también es común hacer uso de cuchillas como el bisturí para hacer el desbaste de la madera y afilar las puntas de las minas a medida que se gastan.
           figure
             img(src='@/assets/curso/tema4/img06.png') 
 
@@ -71,30 +71,30 @@
         figure.mb-5
           img(src='@/assets/curso/tema4/img09.png') 
 
-    h2 Hardware
-    p.mb-5 Actualmente existen muchas alternativas de equipos de cómputo y periféricos útiles para desarrollar ilustraciones que van desde los teléfonos móviles, hasta computadores de escritorio pasando por computadores y portátiles, tablets y otros periféricos especializados en la ilustración digital 2D y 3D.
+    h2 <i>Hardware</i>
+    p.mb-5 Actualmente existen muchas alternativas de equipos de cómputo y periféricos útiles para desarrollar ilustraciones que van desde los teléfonos móviles, hasta computadores de escritorio pasando por computadores y portátiles, <i>tablets</i> y otros periféricos especializados en la ilustración digital 2D y 3D.
     
     div.LineaTiempoD-t4.mb-5
       LineaTiempoD.color-secundario
         div(numero="A" titulo="Teléfonos móviles")    
-          p.mb-5 Actualmente la capacidad de cómputo de los teléfonos móviles supera con creces la poseída por los computadores de escritorio de finales de los 90, especialmente los que encajan en la categoría de Smartphone, ya que en su mayoría poseen una pantalla táctil de suficiente tamaño que brinda la posibilidad de dibujar sobre ella como si se tratara de una libreta de bolsillo digital, gracias a esta característica y las diferentes aplicaciones y algunos utensilios como los stylus (este último no es indispensable) los smartphones se convierten en una alternativa al alcance de la mayoría de personas para realizar dibujos digitales.
+          p.mb-5 Actualmente la capacidad de cómputo de los teléfonos móviles supera con creces la poseída por los computadores de escritorio de finales de los 90, especialmente los que encajan en la categoría de Smartphone, ya que en su mayoría poseen una pantalla táctil de suficiente tamaño que brinda la posibilidad de dibujar sobre ella como si se tratara de una libreta de bolsillo digital, gracias a esta característica y las diferentes aplicaciones y algunos utensilios como los <i>stylus</i> (este último no es indispensable) los <i>smartphones</i> se convierten en una alternativa al alcance de la mayoría de personas para realizar dibujos digitales.
           figure
             img(src='@/assets/curso/tema4/img10.png') 
 
         div(numero="B" titulo="Tablets")    
-          p.mb-4 Son dispositivos con grandes pantallas táctiles, habitualmente mayores a 7” y que funcionan generalmente bajo los mismos sistemas operativos que los Smartphones, como lo son android, iOs y en algunos casos Windows, gracias a esto la mayoría de aplicaciones disponibles para teléfonos móviles están disponibles también para las tablets y dado su tamaño de pantalla son una alternativa más cómoda para dibujar que un smartphone.
+          p.mb-4 Son dispositivos con grandes pantallas táctiles, habitualmente mayores a 7” y que funcionan generalmente bajo los mismos sistemas operativos que los <i>Smartphones</i>, como lo son android, iOs y en algunos casos <i>Windows</i>, gracias a esto la mayoría de aplicaciones disponibles para teléfonos móviles están disponibles también para las <i>tablets</i> y dado su tamaño de pantalla son una alternativa más cómoda para dibujar que un <i>smartphone</i>.
           p.mb-5 El dispositivo más usado de esta categoría por artistas dedicados a la ilustración sin lugar a dudas es el iPad de Apple, sin embargo, en el mercado existen muchas otras alternativas con funcionalidades iguales o similares en un amplio rango de precios.
           figure
             img(src='@/assets/curso/tema4/img11.png') 
                       
         div(numero="C" titulo="Computadores")    
-          p.mb-4 Los computadores son la alternativa más utilizada en cuanto a trabajo profesional se refiere, principalmente por las posibilidades de personalización según las necesidades y porque ofrecen más capacidad de cómputo que alternativas como móviles o tablets y por tanto son capaces de ejecutar aplicaciones más potentes para ilustración.
-          p.mb-5 Existen en 2 grandes categorías que son equipos de escritorio y equipos portátiles diferenciándose principalmente por su volumen y peso lo que hace que el equipo deba ser usado en una estación fija para el caso de los equipos de escritorio o tenga la posibilidad de ser transportado con libertad para el caso de los portátiles (conocidos también como laptops).
+          p.mb-4 Los computadores son la alternativa más utilizada en cuanto a trabajo profesional se refiere, principalmente por las posibilidades de personalización según las necesidades y porque ofrecen más capacidad de cómputo que alternativas como móviles o <i>tablets</i> y por tanto son capaces de ejecutar aplicaciones más potentes para ilustración.
+          p.mb-5 Existen en 2 grandes categorías que son equipos de escritorio y equipos portátiles diferenciándose principalmente por su volumen y peso lo que hace que el equipo deba ser usado en una estación fija para el caso de los equipos de escritorio o tenga la posibilidad de ser transportado con libertad para el caso de los portátiles (conocidos también como <i>laptops</i>).
           figure
             img(src='@/assets/curso/tema4/img12.png') 
 
         div(numero="D" titulo="Tabletas gráficas")    
-          p.mb-4 Las tabletas gráficas son un periférico de entrada que se conecta a un computador de escritorio o portátil, e incluso algunos modelos actuales permiten conexión con smartphones compatibles, constan de una superficie plana sobre la cual se interactúa por medio de un lápiz que es capaz de detectar la posición, contacto, presión y en ocasiones inclinación para transferir esa información al trazo representado en pantalla.
+          p.mb-4 Las tabletas gráficas son un periférico de entrada que se conecta a un computador de escritorio o portátil, e incluso algunos modelos actuales permiten conexión con <i>smartphones</i> compatibles, constan de una superficie plana sobre la cual se interactúa por medio de un lápiz que es capaz de detectar la posición, contacto, presión y en ocasiones inclinación para transferir esa información al trazo representado en pantalla.
           p.mb-5 Las hay de muchas marcas, modelos y precios siendo los fabricantes especializados más conocidos Wacom, Xp Pen y Huion, existen otros fabricantes, pero por presencia en el mercado los modelos de estos tres fabricantes son los más sencillos de encontrar en la región de Latinoamérica.
           figure
             img(src='@/assets/curso/tema4/img13.png') 
@@ -105,8 +105,8 @@
           figure
             img(src='@/assets/curso/tema4/img14.png') 
                       
-    h2 Software
-    p.mb-4 El software es el conjunto de instrucciones (Programas) que permiten la utilización de los equipos de cómputo, el principal es el sistema operativo el cual cumple la función de ser base para la operación del equipo y de otros programas. Las plataformas más populares actualmente para ordenadores de escritorio y portátiles son Windows, macOS y Linux en sus diversas distribuciones y iOS y Android para dispositivos móviles, lo que ocasiona que la mayoría de aplicaciones para dibujo se centren en estos sistemas operativos.
+    h2 <i>Software</i>
+    p.mb-4 El <i>software</i> es el conjunto de instrucciones (Programas) que permiten la utilización de los equipos de cómputo, el principal es el sistema operativo el cual cumple la función de ser base para la operación del equipo y de otros programas. Las plataformas más populares actualmente para ordenadores de escritorio y portátiles son <i>Windows</i>, macOS y Linux en sus diversas distribuciones y iOS y Android para dispositivos móviles, lo que ocasiona que la mayoría de aplicaciones para dibujo se centren en estos sistemas operativos.
     p.mb-5 A continuación, se listan algunas de las aplicaciones más populares gratuitas y de pago para las distintas plataformas.
    
     .row.justify-content-center.mb-4 
@@ -118,7 +118,7 @@
                 figure
                   img(src='@/assets/curso/tema4/img15.png')
             h3.text-center Paint
-            p.text-small Es un programa básico de dibujo, viene integrado con Windows y aunque no se suele usar a nivel profesional es una buena alternativa para empezar a explorar.
+            p.text-small Es un programa básico de dibujo, viene integrado con <i>Windows</i> y aunque no se suele usar a nivel profesional es una buena alternativa para empezar a explorar.
 
       .col-lg-3.d-flex
         a(href="https://krita.org/en/" target="_blank").d-flex
@@ -128,7 +128,7 @@
                 figure
                   img(src='@/assets/curso/tema4/img16.png')
             h3.text-center Krita
-            p.text-small Es un programa de pintura digital gratuito y open source muy potente lo que lo hace uno de los más populares y por tanto es muy fácil encontrar tutoriales sobre él, está disponible para Windows, macOS y Linux.
+            p.text-small Es un programa de pintura digital gratuito y open source muy potente lo que lo hace uno de los más populares y por tanto es muy fácil encontrar tutoriales sobre él, está disponible para <i>Windows</i>, macOS y Linux.
 
       .col-lg-3.d-flex
         a(href="https://inkscape.org/" target="_blank").d-flex
@@ -138,7 +138,7 @@
                 figure
                   img(src='@/assets/curso/tema4/img17.png')
             h3.text-center Inkscape
-            p.text-small Es un editor de gráficos vectoriales gratuito y open source disponible para plataformas Linux, Windows y macOS.
+            p.text-small Es un editor de gráficos vectoriales gratuito y open source disponible para plataformas Linux, <i>Windows</i> y macOS.
       .col-lg-3.d-flex
         a(href="https://www.sketchbook.com/" target="_blank").d-flex
           .tarjeta--boton.color-acento-contenido.p-4.py-5
@@ -147,7 +147,7 @@
                 figure
                   img(src='@/assets/curso/tema4/img18.png')
             h3.text-center Autodesk Sketchbook
-            p.text-small Es el programa de dibujo de Autodesk y literalmente traduce libreta de bocetos, es de los programas más sencillos y fáciles de aprender, pero potentes para ilustración, está disponible para Windows, macOS, iOS y Android y actualmente es de uso gratuito.
+            p.text-small Es el programa de dibujo de Autodesk y literalmente traduce libreta de bocetos, es de los programas más sencillos y fáciles de aprender, pero potentes para ilustración, está disponible para <i>Windows</i>, macOS, iOS y Android y actualmente es de uso gratuito.
 
     .row.justify-content-center.mb-4
       .col-lg-3.d-flex
@@ -158,7 +158,7 @@
                 figure
                   img(src='@/assets/curso/tema4/img19.png')
             h3.text-center Gimp
-            p.text-small Es la alternativa gratuita y open source a Photoshop por excelencia, y de las opciones más potentes para edición de fotografías, está disponible para Linux, Windows y macOs.
+            p.text-small Es la alternativa gratuita y open source a Photoshop por excelencia, y de las opciones más potentes para edición de fotografías, está disponible para Linux, <i>Windows</i> y macOs.
       
       .col-lg-3.d-flex
         a(href="https://magmastudio.io/" target="_blank").d-flex
@@ -178,7 +178,7 @@
                 figure
                   img(src='@/assets/curso/tema4/img21.png')
             h3.text-center Adobe Photoshop
-            p.text-small Es uno de los programas más conocidos del mundo de la casa Adobe, aunque inicialmente era para edición fotográfica se ha vuelto muy popular para ilustración digital, es de pago por suscripción con versión de prueba por 30 días y está disponible para Windows y macOS.
+            p.text-small Es uno de los programas más conocidos del mundo de la casa Adobe, aunque inicialmente era para edición fotográfica se ha vuelto muy popular para ilustración digital, es de pago por suscripción con versión de prueba por 30 días y está disponible para <i>Windows</i> y macOS.
      
       .col-lg-3.d-flex
         a(href="https://www.adobe.com/products/illustrator.html" target="_blank").d-flex
@@ -188,7 +188,7 @@
                 figure
                   img(src='@/assets/curso/tema4/img22.png')
             h3.text-center Adobe Illustrator
-            p.text-small Es un programa de diseño vectorial de la casa Adobe es de pago por suscripción con versión de prueba por 30 días y está disponible para Windows y macOS.
+            p.text-small Es un programa de diseño vectorial de la casa Adobe es de pago por suscripción con versión de prueba por 30 días y está disponible para <i>Windows</i> y macOS.
       
     .row.justify-content-center.mb-4
       .col-lg-3.d-flex
@@ -199,7 +199,7 @@
                 figure
                   img(src='@/assets/curso/tema4/img23.png')
             h3.text-center Clip Studio Paint
-            p.text-small Antiguamente Manga Studio es un programa de pago para ilustración digital, está disponible para Windows, macOS y iOS y tiene una versión de prueba de 30 días.
+            p.text-small Antiguamente Manga Studio es un programa de pago para ilustración digital, está disponible para <i>Windows</i>, macOS y iOS y tiene una versión de prueba de 30 días.
 
       .col-lg-3.d-flex
         a(href="https://www.painterartist.com/en/product/painter/#overview" target="_blank").d-flex
@@ -209,7 +209,7 @@
                 figure
                   img(src='@/assets/curso/tema4/img24.png')
             h3.text-center Corel Painter
-            p.text-small Es un programa pago muy potente de pintura digital disponible para Windows y macOS, ofrece alternativas de único pago y suscripción y prueba gratis de 30 días.
+            p.text-small Es un programa pago muy potente de pintura digital disponible para <i>Windows</i> y macOS, ofrece alternativas de único pago y suscripción y prueba gratis de 30 días.
 
       .col-lg-3.d-flex
         a(href="https://www.coreldraw.com/la/" target="_blank").d-flex
@@ -219,7 +219,7 @@
                 figure
                   img(src='@/assets/curso/tema4/img25.png')
             h3.text-center Corel Draw
-            p.text-small Es la competencia directa de illustrator y se centra en dibujo y diseño vectorial y dependiendo de su versión está disponible para Windows, macOS y web.
+            p.text-small Es la competencia directa de illustrator y se centra en dibujo y diseño vectorial y dependiendo de su versión está disponible para <i>Windows</i>, macOS y web.
 
       .col-lg-3.d-flex
         a(href="https://affinity.serif.com/en-us/designer/" target="_blank").d-flex
@@ -229,7 +229,7 @@
                 figure
                   img(src='@/assets/curso/tema4/img26.png')
             h3.text-center Afinity Designer
-            p.text-small es un programa de diseño que permite el intercalar entre el uso de pixeles y vectores lo que lo hace bastante versátil, es de pago y está disponible para Windows, macOS y iOs.
+            p.text-small es un programa de diseño que permite el intercalar entre el uso de pixeles y vectores lo que lo hace bastante versátil, es de pago y está disponible para <i>Windows</i>, macOS y iOs.
     
     .row.justify-content-center
       .col-lg-12.d-flex
@@ -262,7 +262,7 @@
           :style="{'background-image': `url(${require('@/assets/curso/tema4/img29.png')})`}"
         ) 
         .bloque-texto-g__texto.p-5
-          p.mb-0 En conclusión, la bocetación es tanto un método de estudio como una solución rápida para la representación gráfica de ideas convirtiéndolo en algo eficaz para la planeación de una composición pictórica en el arte, el planteamiento inicial de algo en el diseño o el desarrollo de storyboard en el audiovisual entre muchos otros usos.<br><br>Aunque el boceto se caracteriza por ser una construcción rápida es importante tener presentes algunos conceptos que se describirán a continuación, ya que son elementos básicos del dibujo y son importantes para hacer del proceso de bocetación algo eficiente.
+          p.mb-0 En conclusión, la bocetación es tanto un método de estudio como una solución rápida para la representación gráfica de ideas convirtiéndolo en algo eficaz para la planeación de una composición pictórica en el arte, el planteamiento inicial de algo en el diseño o el desarrollo de <i>storyboard</i> en el audiovisual entre muchos otros usos.<br><br>Aunque el boceto se caracteriza por ser una construcción rápida es importante tener presentes algunos conceptos que se describirán a continuación, ya que son elementos básicos del dibujo y son importantes para hacer del proceso de bocetación algo eficiente.
         
     .row.justify-content-start
       .col-6
@@ -511,7 +511,7 @@
         .row.justify-content-center.mb-0
           .col-lg-4.col-6
             figure.mb-4
-              img(src='@/assets/curso/tema4/img48.svg') 
+              img(src='@/assets/curso/tema4/img49.svg') 
           .col-lg-6.d-flex.align-items-center
             div
               .row.justify-content-star.pb-2.mb-4.num-bor.m-0              
@@ -558,7 +558,8 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema4/img53.png')})`}"
       ) 
       .bloque-texto-g__texto.p-5
-        p.mb-0 Al tomar la animación como vehículo para la narración se abre un abanico de posibilidades infinitas, pues, aunque comparte con estas algunas convenciones narrativas, no está supeditada al funcionamiento real del mundo permitiendo plantear panoramas y situaciones que son muy difíciles de crear en el mundo real (o incluso imposibles). Un ejemplo de esto es la película Avatar que aunque no es del género de animación, hace uso de esta para crear su universo, a pesar de que su guion fue concebido desde 1994 para iniciar su rodaje luego de la finalización de Titanic y ser estrenada en 1999, su director James Cameron determinó que la tecnología de la época no le permitiría realizar la visión que tenía para la película, razón por la cual la producción reinicio en 2005 para llegar a su estreno en 2009, causando gran revuelo y convirtiéndose en una de las películas más taquilleras de la historia.
+        p.mb-0 Su forma de uso depende principalmente de la intención del artista, sin embargo, es recomendable hacer uso del tramado mediante la aplicación de capas para de esta manera ir acentuando las partes más oscuras y al mismo tiempo obtener más riqueza en la textura, en la siguiente imagen podemos apreciar un ejemplo de cómo se va ganando en intensidad y textura a medida que se van sumando capas.<br><br>Uno de los mejores ejemplos de aplicación de tramas se encuentra en los billetes donde podemos ver diferentes tipos de tramas que van desde puntos en diferentes tamaños y densidades, pasando por líneas con diferentes valores, direcciones, separaciones y tipos hasta patrones de figuras geométricas.
+
       
     .row.justify-content-center.mb-5
       .col-8

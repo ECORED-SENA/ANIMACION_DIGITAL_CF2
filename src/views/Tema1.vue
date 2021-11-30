@@ -61,7 +61,7 @@
               p.mb-1 <b>Estético</b>
               p.mb-0 Pretende crear o producir una sensación de belleza, armonía, agrado y gracia.
 
-    p.mb-5.text-center <b>Ahora, es bueno profundizar en el aspecto sintáctico del lenguaje audiovisual:</b>
+    p.mb-5.text-center <b>Ahora, es bueno profundizar en el aspecto sintáctico del lenguaje audiovisual, pese a que este tiene un valor técnico, trabaja en conjunto con el aspecto semántico. Es así como, cada elección de plano o ángulo responderá a las emociones, sentimientos e información que se quiera transmitir a los espectadores. (CAR, 2011) :</b>
 
     LineaTiempoD.color-primario
       .row(numero="1" titulo="Campo")
@@ -99,7 +99,7 @@
                   figure.num
                     img(src='@/assets/curso/num1.svg') 
                 .col-11.ps-0.pt-2
-                  h3.mb-0 Gran Plano General / Extreme Long Shot (ELS)
+                  h3.mb-0 Gran Plano General / <i><i>Extreme</i> <i>Long Shot</i></i> (ELS)
               p.mb-0 Tiene el mayor ángulo de corte posible. Tiene el objetivo de mostrar la mayor cantidad de información acerca del entorno y los personajes solo representan un punto más dentro de todo el paisaje.
 
           .row.justify-content-center
@@ -111,7 +111,7 @@
                   figure.num
                     img(src='@/assets/curso/num2.svg') 
                 .col-11.ps-0.pt-2
-                  h3.mb-0 Plano General / Long Shot (LS)
+                  h3.mb-0 Plano General / <i>Long Shot</i> (LS)
               p.mb-0 Sigue teniendo un valor descriptivo y se pueden observar a los personajes. Brinda información del lugar donde se desarrollará la historia.
 
           .row.justify-content-center
@@ -123,7 +123,7 @@
                   figure.num
                     img(src='@/assets/curso/num3.svg') 
                 .col-11.ps-0.pt-2
-                  h3.mb-0 Plano Entero/ Full Shot (FS)
+                  h3.mb-0 Plano Entero/ <i>Full Shot</i> (FS)
               p.mb-0 Muestra al personaje de cuerpo completo dentro de un lugar. Tiene un valor narrativo, en el cual se observan con claridad las acciones y movimientos de los personajes.
 
           .row.justify-content-center
@@ -135,7 +135,7 @@
                   figure.num
                     img(src='@/assets/curso/num4.svg') 
                 .col-11.ps-0.pt-2
-                  h3.mb-0 Plano Americano/ American Shot (AS)
+                  h3.mb-0 Plano Americano/ <i>American Shot</i> (AS)
               p.mb-0 Se muestra al personaje desde la cabeza hasta las rodillas. Su origen viene de las películas Western donde era importante mostrar las manos del personaje al momento de tomar su pistola. Es un plano narrativo y expresivo, donde el personaje como el entorno tienen gran importancia.
           
           .row.justify-content-center
@@ -147,8 +147,8 @@
                   figure.num
                     img(src='@/assets/curso/num5.svg') 
                 .col-11.ps-0.pt-2
-                  h3.mb-0 Plano medio/ Medium Shot (MS)
-              p.mb-0 Corte a la altura de la cintura. A pesar de que se clasifica como un plano narrativo más que expresivo; aumenta la importancia del rostro del personaje y su expresividad, restándole atención al escenario. Es un plano muy cómodo para trabajar los diálogos de los personajes, desde el cual se puede hacer una transición a un plano general o un primer plano sin brusquedad.<br>la facultad de tener mayor duración en pantalla frente a otros planos. (CÁMARA, 2006)
+                  h3.mb-0 Plano medio/ <i>Medium Shot</i> (MS)
+              p.mb-0 Corte a la altura de la cintura. A pesar de que se clasifica como un plano narrativo más que expresivo; aumenta la importancia del rostro del personaje y su expresividad, restándole atención al escenario. Es un plano muy cómodo para trabajar los diálogos de los personajes, desde el cual se puede hacer una transición a un plano general o un primer plano sin brusquedad. Tiene la facultad de tener mayor duración en pantalla frente a otros planos. (Cámara, 2006)
           
           .row.justify-content-center
             .col-10
@@ -159,7 +159,7 @@
                   figure.num
                     img(src='@/assets/curso/num6.svg') 
                 .col-11.ps-0.pt-2
-                  h3.mb-0 Primer Plano/ Close Up (CU)
+                  h3.mb-0 Primer Plano/ <i>Close Up</i> (CU)
               p.mb-0 El encuadre se ve ocupado casi por completo por el rostro del personaje, partiendo desde su cuello o mentón. Es un plano expresivo, donde todos los elementos dramáticos se centran en las emociones y proceso de pensamiento del personaje.
           
           .row.justify-content-center
@@ -171,7 +171,7 @@
                   figure.num
                     img(src='@/assets/curso/num7.svg') 
                 .col-11.ps-0.pt-2
-                  h3.mb-0 Primerísimo Primer Plano/ Plano Detalle/ Extreme Close Up (ECU)
+                  h3.mb-0 Primerísimo Primer Plano/ Plano Detalle/ <i>Extreme</i> <i>Close Up</i> (ECU)
               p.mb-0 Recoge un fragmento o detalle de un objeto o personaje. Es un plano expresivo que funciona para remarcar detalles o acciones que con otro tipo de planos pasarían desapercibidos.
                         
       .row(numero="5" titulo="Ángulo")
@@ -259,7 +259,7 @@
                       img(src='@/assets/curso/num6.svg') 
                   .col-10.ps-1.pt-2
                     h3.mb-0 Tres cuartos
-                    p.mb-0 El personaje u objeto aparece ligeramente girado en el eje horizontal. Suele usarse para romper el efecto de twinning o espejo y brindar sensación de profundidad              
+                    p.mb-0 El personaje u objeto aparece ligeramente girado en el eje horizontal. Suele usarse para romper el efecto de <i>twinning</i> o espejo y brindar sensación de profundidad              
 
           .row.justify-content-center.mb-0
             .col-lg-3.col-6
@@ -315,8 +315,8 @@
                   figure.num
                     img(src='@/assets/curso/num1.svg') 
                 .col-11.ps-0.pt-2
-                  h3.mb-0 Dolly in/out
-              p.mb-0 La cámara se desplaza hacia adentro (in) o hacia afuera (out) del escenario. Aunque pueda ser similar al Zoom in/out, el dolly mantiene el foco y el efecto generado aporta mayor dinamismo, profundidad y potencia las perspectivas. (CÁMARA, 2006)
+                  h3.mb-0 <i>Dolly</i> <i>in/out</i>
+              p.mb-0 La cámara se desplaza hacia adentro <i>(in)</i> o hacia afuera <i>(out)</i> del escenario. Aunque pueda ser similar al <i>Zoom</i> <i>in/out</i>, el <i>dolly </i> mantiene el foco y el efecto generado aporta mayor dinamismo, profundidad y potencia las perspectivas. (CÁMARA, 2006)
 
           .row.justify-content-center.mb-0
             .col-10
@@ -327,7 +327,7 @@
                   figure.num
                     img(src='@/assets/curso/num2.svg') 
                 .col-11.ps-0.pt-2
-                  h3.mb-0 Zoom in/out
+                  h3.mb-0 <i>Zoom</i> <i>in/out</i>
               p.mb-0 La cámara permanece estática pero el lente se abre o cierra, causando que los objetos se acerquen o se alejen. (ACEITUNO, 2010).                  
           
           .row.justify-content-center.mb-0
@@ -339,8 +339,8 @@
                   figure.num
                     img(src='@/assets/curso/num3.svg') 
                 .col-11.ps-0.pt-2
-                  h3.mb-0 Dolly Zoom o efecto vértigo
-              p.mb-0 Es un efecto combinado entre el desplazamiento de la cámara hacia adelante o hacia atrás (Dolly) con un efecto óptico de zoom.<br>Desde una búsqueda simple en Internet o a través del material complementario puede visualizar un ejemplo propuesto por <b>TRNGL Entertainment (2020), Dolly Zoom (El efecto vértigo) | Curso de Cine</b>.                  
+                  h3.mb-0 <i>Dolly</i> <i>Zoom</i> o efecto vértigo
+              p.mb-0 Es un efecto combinado entre el desplazamiento de la cámara hacia adelante o hacia atrás (<i>Dolly</i>) con un efecto óptico de zoom.<br>Desde una búsqueda simple en Internet o a través del material complementario puede visualizar un ejemplo propuesto por <b><i>TRNGL Entertainment</i> (2020), <i>Dolly</i> <i>Zoom</i> (El efecto vértigo) | Curso de Cine</b>.                  
           
           .row.justify-content-center.mb-0
             .col-10
@@ -351,7 +351,7 @@
                   figure.num
                     img(src='@/assets/curso/num4.svg') 
                 .col-11.ps-0.pt-2
-                  h3.mb-0 Panorámica / Pan
+                  h3.mb-0 Panorámica / <i>Pan</i>
               p.mb-0 La cámara permanece anclada en un punto y gira sobre su propio eje, de derecha a izquierda o viceversa.
                             
           .row.justify-content-center.mb-0
@@ -363,7 +363,7 @@
                   figure.num
                     img(src='@/assets/curso/num5.svg') 
                 .col-11.ps-0.pt-2
-                  h3.mb-0 Tild up/down
+                  h3.mb-0 <i>Tild up/down</i>
               p.mb-0 La cámara permanece anclada y sube o baja en el eje vertical.
                   
           .row.justify-content-center.mb-0
@@ -375,7 +375,7 @@
                   figure.num
                     img(src='@/assets/curso/num6.svg') 
                 .col-11.ps-0.pt-2
-                  h3.mb-0 Travelling
+                  h3.mb-0 <i>Travelling</i>
               p.mb-4 Es el desplazamiento de la cámara sobre un vehículo (rieles, grúa). Existen varios tipos (MARQUÈS, 1995):
               p.mb-0 <b>Lateral:</b> para acompañar al personaje cuando se desplaza.<br><b>Ascendente / descendente:</b> el movimiento es hacia arriba o hacia abajo.<br><b>Circular:</b> desplazamiento alrededor del personaje
                             
@@ -388,7 +388,7 @@
                   figure.num
                     img(src='@/assets/curso/num7.svg') 
                 .col-11.ps-0.pt-2
-                  h3.mb-0  Shake
+                  h3.mb-0  <i>Shake</i>
               p.mb-0 Temblor en la cámara que es originado por un golpe violento al personaje o el escenario. Pueden dar sensación de un temblor, la caída de algo muy pesado o una explosión. (CÁMARA, 2006)                  
           
           .row.justify-content-center.mb-0
@@ -406,7 +406,7 @@
         .row.justify-content-center.mb-0
           .col-10
             .cajon.color-primario.p-4
-              p.mb-5 Puede verificar desde una búsqueda en internet o desde el material complementario algunos de los siguientes vídeos en los cuales se presentan ejemplos de los diferentes planos, ángulos y movimientos de cámara.
+              p.mb-5 Puede verificar desde una búsqueda en <i>internet</i> o desde el material complementario algunos de los siguientes vídeos en los cuales se presentan ejemplos de los diferentes planos, ángulos y movimientos de cámara.
               .row.justify-content-center.mb-0
                 .col-10
                   a.t1.anexo.mb-4(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
@@ -441,7 +441,7 @@
                     img(src='@/assets/curso/num1.svg') 
                 .col-11.ps-0.pt-2
                   h3.mb-0 Regla de tercios
-                  p.mb-0 El encuadre se divide en tres partes iguales, horizontal y verticalmente (ver imagen A). Los puntos donde se interceptan las líneas (puntos de color de la imagen A ) son los puntos de mayor interés de la composición, por tal motivo, los elementos deberán disponerse en esos puntos o lo más cerca posible de ellos. La distribución en tercios rompe la simetría que produce la composición en el centro (comparar imagen A y B) (BANCROFT, 2012).              
+                  p.mb-0 El encuadre se divide en tres partes iguales, horizontal y verticalmente (ver imagen A). Los puntos donde se interceptan las líneas (puntos de color de la imagen A) son los puntos de mayor interés de la composición, por tal motivo, los elementos deberán disponerse en esos puntos o lo más cerca posible de ellos. La distribución en tercios rompe la simetría que produce la composición en el centro (comparar imagen A y B) (<i>BANCROFT</i>, 2012).              
           
           .row.justify-content-center.mb-0
             .col-10
@@ -465,7 +465,7 @@
                     img(src='@/assets/curso/num3.svg') 
                 .col-11.ps-0.pt-2
                   h3.mb-0 Luz
-                  p.mb-0 El ojo del espectador se dirigirá a los objeto o zona que se encuentre iluminada, mientras que las zonas oscuras perderán importancia.              
+                  p.mb-0 El ojo del espectador se dirigirá a los objetos o zona que se encuentre iluminada, mientras que las zonas oscuras perderán importancia.
           
           .row.justify-content-center.mb-0
             .col-10
@@ -500,10 +500,11 @@
                   figure.num
                     img(src='@/assets/curso/num6.svg') 
                 .col-11.ps-0.pt-2
-                  h3.mb-0  Composición áurea o golden ratio p.mb-0 Distribución basada en la serie de Fibonacci (matemáticas). Es un patrón que está presente en la naturaleza.                        
+                  h3.mb-0  Composición áurea o golden ratio 
+                  p.mb-0 Distribución basada en la serie de <i>Fibonacci</i> (matemáticas). Es un patrón que está presente en la naturaleza.                        
           
       .row(numero="8" titulo="Continuidad")
-        p.mb-5 Más conocido como raccord. Tiene que ver con la relación que existe entre los diferentes planos a fin de que no se pierda la sensación de unidad. Cada plano de una escena, similar a una cadena, tendrá que servir de base para el siguiente.
+        p.mb-5 Más conocido como <i>raccord</i>. Tiene que ver con la relación que existe entre los diferentes planos a fin de que no se pierda la sensación de unidad. Cada plano de una escena, similar a una cadena, tendrá que servir de base para el siguiente.
         .row.justify-content-center.mb-0
           .col-10
             .cajon.color-primario.p-4
@@ -542,7 +543,7 @@
                     img(src='@/assets/curso/num1.svg') 
                 .col-11.ps-0.pt-2
                   h3.mb-0 Corte
-                  p.mb-0 Conocido como corte directo o seco. Es el paso limpio de un plano a otro. Sugiere continuidad narrativa e imprime un carácter dinámico y natural. Se entiende que no transcurre tiempo entre las escenas que se conectan. Se debe prestar especial atención al raccord visual, con el fin que el espectador no note el recurso.                  
+                  p.mb-0 Conocido como corte directo o seco. Es el paso limpio de un plano a otro. Sugiere continuidad narrativa e imprime un carácter dinámico y natural. Se entiende que no transcurre tiempo entre las escenas que se conectan. Se debe prestar especial atención al <i>raccord</i> visual, con el fin que el espectador no note el recurso.                  
 
           .row.justify-content-center.mb-0
             .col-10
@@ -565,7 +566,7 @@
                   figure.num
                     img(src='@/assets/curso/num3.svg') 
                 .col-11.ps-0.pt-2
-                  h3.mb-0 Fundido a negro o de negro / Fade in-out
+                  h3.mb-0 Fundido a negro o de negro / <i>Fade in-out</i>
                   p.mb-0 El plano se oscurece hasta llenar la pantalla de negro, o de negro gradualmente deja ver la imagen del siguiente plano. Se utiliza para inicios y finales de secuencias, o también para transmitir el paso de un periodo largo de tiempo (CÁMARA, 2006).
                   
     Separador     

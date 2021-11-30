@@ -11,3 +11,20 @@ Tema 4
 
 Tema 5
 - No se encuentra los link de los recursos al final del tema
+
+
+
+**************
+
+Para Luis
+H1 - El texto descriptivo tiene mas de 60 palabras, se debe reducir el texto y pegar el parrafo completo en la introducción
+H3 - Se hizo la prueba en Chorme, Firefox y Edge, a diferentes tamaños de pantalla y no fue posible reproducir el caso.
+H8 - Al parecer es un error del componente que hay que revisar
+H9 - No se encuentran los enlaces correspondientes. Donde estan?
+
+Diseñador
+H15 - Por favor revisar la imagén que sugiere el experto y colocar la descripción
+H16 - No se encuentra los link de los recursos al final del tema
+H23 - Se requiere que el diseñador proporcione viñeta para el numero 10
+
+

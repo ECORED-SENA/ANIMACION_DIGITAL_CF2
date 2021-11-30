@@ -6,13 +6,13 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Elevator pitch
+      h1 <i>Elevator pitch</i>
 
     .row.justify-content-center.mb-5.t1-fondo1.t5-border.pb-5
       .col-10.pt-5.px-4
         figure.mb-5
           img(src='@/assets/curso/tema5/img01.png') 
-        p.mb-0 Se le da el nombre de presentación de pitch a una discurso corto y conciso (de 30 segundos a máximo 2 minutos), donde se describe una idea, producto o compañía, con el objetivo de buscar financiación de un posible inversor para desarrollar un proyecto. Es la mejor herramienta para responder a la pregunta ¿qué hace su empresa? o en nuestro caso ¿qué proyecto audiovisual va a realizar? ¿En qué se enfocaría si solo tuviera 30 segundos para mostrar su idea?.
+        p.mb-0 Se le da el nombre de presentación de <i>pitch</i> a una discurso corto y conciso (de 30 segundos a máximo 2 minutos), donde se describe una idea, producto o compañía, con el objetivo de buscar financiación de un posible inversor para desarrollar un proyecto. Es la mejor herramienta para responder a la pregunta ¿qué hace su empresa? o en nuestro caso ¿qué proyecto audiovisual va a realizar? ¿En qué se enfocaría si solo tuviera 30 segundos para mostrar su idea?.
 
     h3.text-center Consejos para la presentación
     
@@ -22,7 +22,7 @@
           .row
             .col-md-10.mb-4.mb-md-0
               h4 Sea breve
-              p La presentación de pitch no es un espacio para presentar todos los detalles del proyecto, solo lo esencial. No por esto caiga en el error de hablar demasiado rápido.
+              p La presentación de <i>pitch</i> no es un espacio para presentar todos los detalles del proyecto, solo lo esencial. No por esto caiga en el error de hablar demasiado rápido.
             .col-md-2
               figure
                 img(src='@/assets/curso/tema5/img02.svg')    
@@ -137,7 +137,7 @@
                       | Nombres de los integrantes del equipo o el nombre del estudio desarrollador.
                     li 
                       i.fas.fa-circle.fa-xs(style="color: #D44F4A")
-                      | Información de contacto: email y/o número telefónico.    
+                      p.mb-0  Información de contacto: <i>email</i> y/o número telefónico.    
 
         .row.justify-content-center.mb-0
           .col-10          
@@ -217,7 +217,7 @@
                       | Descripción breve de quién es usted y su experiencia.
                     li 
                       i.fas.fa-circle.fa-xs(style="color: #D44F4A")
-                      | Encaso de tenerlas, es bueno mostrar algunas piezas o proyectos en los que ha participado. Siempre y cuando tengan relación con el proyecto a exponer.
+                      | En caso de tenerlas, es bueno mostrar algunas piezas o proyectos en los que ha participado. Siempre y cuando tengan relación con el proyecto a exponer.
                     li 
                       i.fas.fa-circle.fa-xs(style="color: #D44F4A")
                       | ¿Por qué usted o su equipo son idóneos para ejecutar la solución planteada?.
@@ -279,24 +279,64 @@
                       h3.mb-0 Características diferenciables
                   
                   p.mb-0 Presente de 3 a 5 características que hacen de su proyecto algo destacable, innovador o diferente.
+
+        .row.justify-content-center.mb-0
+          .col-10          
+            .row.justify-content-center
+              .col-lg-4.col-6
+                figure.mb-4
+                  img(src='@/assets/curso/tema5/img13.svg') 
+              .col-lg-7.d-flex.align-items-center
+                div
+                  .row.justify-content-center.pb-2.mb-4.num-bor
+                    .col-2.pe-0
+                      figure.num
+                        img(src='@/assets/curso/num9.svg') 
+                    .col-10.ps-0.pt-2
+                      h3.mb-0 Especificaciones de producción
+                  
+                  p.mb-0 Presentar de forma global las fases, tiempos y costos de la ejecución del proyecto.
+
+        .row.justify-content-center.mb-0
+          .col-10          
+            .row.justify-content-center
+              .col-lg-4.col-6
+                figure.mb-4
+                  img(src='@/assets/curso/tema5/img13.svg') 
+              .col-lg-7.d-flex.align-items-center
+                div
+                  .row.justify-content-center.pb-2.mb-4.num-bor
+                    .col-2.pe-0
+                      figure.num
+                        img(src='@/assets/curso/num9.svg') 
+                    .col-10.ps-0.pt-2
+                      h3.mb-0 Cierre
+                  
+                  ul.lista-ul--color
+                    li 
+                      i.fas.fa-circle.fa-xs(style="color: #D44F4A")
+                      | Haga un llamado a la acción. Esta puede ser a seguir las redes sociales del proyecto o invitarlos a realizar preguntas de lo que acaba de exponer.
+                    li 
+                      i.fas.fa-circle.fa-xs(style="color: #D44F4A")
+                      | Vuelva a mostrar la diapositiva 1 (logo y datos de contacto).
     
     .row.justify-content-center.mb-0
       .col-10
         .t5.cajon.color-primario.p-4
-          p.mb-5 Para ampliar más acerca de un Elevator Pitch puede consultar desde el material complementario o desde la web algunos ejemplos que, aunque describen el discurso de un pitch con fines de financiación, aportan información valiosa y útil al momento de mostrar ideas de proyecto:
+          p.mb-5 Para ampliar más acerca de un <i>Elevator Pitch</i> puede consultar desde el material complementario o desde la web algunos ejemplos que, aunque describen el discurso de un <i>pitch</i> con fines de financiación, aportan información valiosa y útil al momento de mostrar ideas de proyecto:
           .row.justify-content-center.mb-0
             .col-10
               a.t5.anexo.mb-4(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
                 .anexo__icono
                   img(src="@/assets/curso/link.svg")
                 .anexo__texto
-                  p <b>Ejemplo.</b> Negocios y Empresa (2018, Cómo hacer un Elevator Pitch que enamore al Inversor.
+                  p <b>Ejemplo.</b> Negocios y Empresa (2018, Cómo hacer un <i>Elevator Pitch</i> que enamore al Inversor.
 
               a.t5.anexo.mb-4(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
                 .anexo__icono
                   img(src="@/assets/curso/link.svg")
                 .anexo__texto
-                  p <b>Ejemplo.</b> LurisdocTV, (2013), Elevator pitch. Tienes 20 segundos - eduCaixa
+                  p <b>Ejemplo.</b> LurisdocTV, (2013), <i>Elevator pitch</i>. Tienes 20 segundos - eduCaixa
 
     Separador 
    

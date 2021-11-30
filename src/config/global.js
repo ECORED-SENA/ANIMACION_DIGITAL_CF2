@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Storyboarding',
+    componenteFormativo: '<i><i>storyboarding</i></i>',
     descripcionCurso:
-      'El desarrollo audiovisual es un proceso estructurado que requiere planeación cuidadosa para lograr que la idea que se desea comunicar llegue adecuadamente al espectador, de ahí la importancia en conocer y apropiar conceptos esenciales de lenguaje audiovisual que potencien la narración de la historia y permitan desarrollar apropiadamente una propuesta gráfica mediante la creación de un storyboard, para así determinar si el planteamiento original se logra traducir adecuadamente a imágenes y por tanto, mantiene la esencia del mensaje.',
+      'El desarrollo audiovisual es un proceso estructurado que requiere planeación cuidadosa para lograr que la idea que se desea comunicar llegue adecuadamente al espectador, de ahí la importancia en conocer y apropiar conceptos esenciales de lenguaje audiovisual que potencien la narración de la historia y permitan desarrollar apropiadamente una propuesta gráfica mediante la creación de un <i>storyboard</i>, para así determinar si el planteamiento original se logra traducir adecuadamente a imágenes y por tanto, mantiene la esencia del mensaje.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -37,7 +37,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Técnicas y formatos de storyboarding',
+        titulo: 'Técnicas y formatos de <i>storyboarding</i>',
         desarrolloContenidos: true,
       },
       {
@@ -83,125 +83,8 @@ export default {
         nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
         numero: '5',
-        titulo: 'Elevator pitch',
+        titulo: '<i>Elevator pitch</i>',
         desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema6',
-        icono: 'far fa-file-alt',
-        numero: '6',
-        titulo: 'Componentes',
-        desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Encabezados',
-            hash: 'encabezados',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Párrafos',
-            hash: 'parrafos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Botones',
-            hash: 'botones',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Listas',
-            hash: 'listas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Tablas',
-            hash: 'tablas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.6',
-            titulo: 'Imagen',
-            hash: 'imagen',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.7',
-            titulo: 'Imagen Infográfica',
-            hash: 'imagen_infografica',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.8',
-            titulo: 'Video',
-            hash: 'video',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.9',
-            titulo: 'Bloques de texto destacado',
-            hash: 'texto_destacado',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.10',
-            titulo: 'Sliders',
-            hash: 'sliders',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.11',
-            titulo: 'Acordiones',
-            hash: 'acordiones',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.12',
-            titulo: 'Pestañas o Tabs',
-            hash: 'tabs',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.13',
-            titulo: 'Líneas de tiempo',
-            hash: 'lineas_tiempo',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.14',
-            titulo: 'Pasos',
-            hash: 'pasos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.15',
-            titulo: 'Llamados a la acción',
-            hash: 'llamados_accion',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.16',
-            titulo: 'Tarjetas',
-            hash: 'tarjetas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.17',
-            titulo: 'Tarjetas con número',
-            hash: 'tarjeta_numero',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.18',
-            titulo: 'Modal',
-            hash: 'modal',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -241,139 +124,202 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Aceituno, Marcelo (2010). Seminario de producción multimedia. Secretaría de Posgrado. Universidad Nacional de Quilmes. Bernal.',
+      link: 'http://libros.uvq.edu.ar/spm/42_lenguaje_audiovisual.html',
+    },
+    {
+      referencia:
+        'Bancroft, Tom (2012-2013). Character Mentor. Burlington, MA. EEUU: Focal Press.',
+    },
+    {
+      referencia:
+        'Bartolomé, A. (1987). Análisis de la producción y aplicación de programas audiovisuales didácticos. Tesis doctoral. Barcelona: Universitat de Barcelona. ',
+      link: 'http://hdl.handle.net/10803/2360',
+    },
+    {
+      referencia: 'BPlans. Noah Parsons.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://articles.bplans.com/the-7-key-components-of-a-perfect-elevator-pitch/',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Cámara Graells, Pere (1995). Introducción al lenguaje audiovisual. Recuperado el 10 de septiembre de 2020 en: ',
+      link: 'http://peremarques.pangea.org/avmulti.htm#av',
+    },
+    {
+      referencia:
+        'Cámara, Sergi (2006). El dibujo animado. Barcelona, España: Parramón Ediciones, S.A. ',
+    },
+    {
+      referencia:
+        'Centro Audiovisual Rosario (CAR). (2011). Haciendo dibujitos en el fin del mundo, El libro de la Escuela para Animadores de Rosario. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://openlibra.com/es/book/download/haciendo-dibujitos-en-el-fin-del-mundo ',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Dancyger, Ken, and Alvarez, José A. Traductor. Técnicas De Edición En Cine Y Video. Barcelona: Editorial Gedisa, 1999.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000079357 ',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
+        'Doucet, Ron, (2020). Drawing & Composition for visual storytelling. ',
+      link: 'http://www.floobynooby.com/comp1.html#anchor ',
     },
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Fernández, F. y Martínez, J. (1999). Manual básico de lenguaje audiovisual y narrativa audiovisual. Barcelona, ESPAÑA: Paidós.',
+    },
+    {
+      referencia:
+        'Maldonado, M. (2018). Animatic – El Storyboard de Hoy. Blog Industria Animación. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.industriaanimacion.com/2018/06/animatic-storyboard-de-hoy/ ',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'Manrique, Ana. Dibujo. 9a Edición. ed. Barcelona: Parramón Ediciones, 2008. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000062633 ',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Novasur, Consejo Nacional de Televisión (CNTV). (2019). Manual de producción audiovisual. ',
+      link: 'https://fliphtml5.com/ojfbf/bapc/basic ',
+    },
+    {
+      referencia:
+        'Simon, Mark (2007). Storyboard Motion in Art. Burlington, MA, EEUU: Focal Press.',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Perpendicular',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Es un concepto geométrico que hace referencia a la posición de un plano o línea con respecto a otro al momento en que se encuentran presentando la condición invariable de generar un ángulo de 90° entre sí.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Punto de fuga',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Pirognóstico',
-      significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
-    },
-    {
-      termino: '<em>Áectores</em>',
-      significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
-    },
-    {
-      termino: 'Moda',
-      significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
-    },
-    {
-      termino: 'Diseña',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'DIseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'es un punto que se ubica sobre la línea del horizonte y desde donde se proyectan líneas que permiten la representación de objetos en perspectiva.',
     },
   ],
   complementario: [
     {
+      texto: 'Novasur y CNTV. (2019). Manual de producción audiovisual.',
+      tipo: 'Página web',
+      link: 'https://fliphtml5.com/ojfbf/bapc/basic  ',
+    },
+    {
+      texto: 'aprendecine.com (2017). Salto de eje y eje de acción en el cine.',
+      tipo: 'Página web',
+      link: 'https://aprendercine.com/salto-de-eje/ ',
+    },
+    {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Doucet, Ron, (2020). Drawing & Composition for visual storytelling',
+      tipo: 'Página web',
+      link: 'http://www.floobynooby.com/comp1.html#anchor ',
     },
     {
       texto:
         'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+      tipo: 'Pdf',
+      descarga: '/downloads/animacion_web.pdf',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
+        'Brad Bird on how to compose shots for storyboards Y layout artists',
+      tipo: 'Pdf',
+      descarga: '/downloads/Brad_Bird_notes_to_compose.pdf',
     },
     {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: ['/downloads/prueba.pdf', '/downloads/prueba.pdf'],
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
+      texto:
+        'Jiménez, Oscar, (2017), Diseña tus personajes de animación con arte',
       tipo: 'Video',
-      link: ['https://www.google.com/', 'https://www.google.com/'],
+      link: 'https://vimeo.com/91390586',
+    },
+    {
+      texto:
+        'TRNGL Entertainment (2020), Dolly Zoom (El efecto vértigo) | Curso de Cine',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=hqcyg-g8_Ok&ab_channel=TRNGL',
+    },
+    {
+      texto: 'La ciencia del Cine (2018). Planos y movimientos de Cámara I',
+      tipo: 'Video',
+      link: 'https://youtu.be/AN2I1CTn3rY',
+    },
+    {
+      texto:
+        'La ciencia del Cine (2019). Plano y Movimientos de Cámara II: Angulación.',
+      tipo: 'Video',
+      link: 'Vídeo	https://youtu.be/ILRjN0b30Pc',
+    },
+    {
+      texto:
+        'La ciencia del Cine (2020). Plano y Movimientos de Cámara III: Puntos de vista y movimientos.',
+      tipo: 'Video',
+      link: 'https://youtu.be/dBPjG2YipY4',
+    },
+    {
+      texto:
+        'La ciencia del Cine (2020), Elementos del cine: CONTINUIDAD + ERRORES en películas',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=ew5WzvL-fEk&ab_channel=LacienciadelCine',
+    },
+    {
+      texto:
+        'The Damn Beast (2020), Ritmo narrativo: ¿qué es y por qué es tan importante? | el laberinto #005.	',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=YwJaz7tXq1Y',
+    },
+    {
+      texto:
+        'AprenderCine.com (2017), Salto de eje y eje de acción en el cine.',
+      tipo: 'Página web',
+      link: 'https://aprendercine.com/salto-de-eje/ ',
+    },
+    {
+      texto:
+        'Toby Kearton (2016),Taxi Driver (1976) | Scene and Storyboard Comparison',
+      tipo: 'Video',
+      link: 'https://youtu.be/Ydl6wQnEQYg ',
+    },
+    {
+      texto:
+        'Floobynooby (2020), Drawing & Composition for visual storytelling.',
+      tipo: 'Página web',
+      link: 'http://www.floobynooby.com/comp1.html#anchor',
+    },
+    {
+      texto: 'AllahOfw0ne (2006), "The untimely death of Pudge the fish".',
+      tipo: 'Video',
+      link: 'https://youtu.be/LxmT-zQc1GQ ',
+    },
+    {
+      texto: 'Kevin Parry (2010), The Arctic Circle - Storyboard Comparison.',
+      tipo: 'Video',
+      link: 'https://vimeo.com/12153179 ',
+    },
+    {
+      texto: 'Goat Zod (2019), Avengers 2 Age of Ultron Previs 2',
+      tipo: 'Video',
+      link: 'https://youtu.be/cG0DBZPRkTQ ',
+    },
+    {
+      texto:
+        'Negocios y Empresa (2018, Cómo hacer un Elevator Pitch que enamore al Inversor.',
+      tipo: 'Video',
+      link: 'https://youtu.be/EsAkvzIoEvc ',
+    },
+    {
+      texto:
+        'IurisdocTV, (2013), Elevator pitch. Tienes 20 segundos - eduCaixa',
+      tipo: 'Video',
+      link: 'https://youtu.be/2b3xG_YjgvI ',
     },
   ],
   creditos: {
@@ -389,7 +335,30 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
+      },
+      {
+        nombre: 'John Alexander García Ángel',
+        cargo: 'Experto temático',
+        centro:
+          'Centro de Servicios y Gestión Empresarial - Regional Antioquia',
+      },
+      {
+        nombre: 'Oscar Andrés Martin',
+        cargo: 'Experto temático',
+        centro:
+          'Centro de Servicios y Gestión Empresarial - Regional Antioquia',
+      },
+      {
+        nombre: 'Oscar Absalón Guevara',
+        cargo: 'Diseñador Instruccional',
+        centro: 'Centro de Gestión Industrial – Regional Distrito Capital',
+      },
+      {
+        nombre: 'Julieth Paola Vital López',
+        cargo: 'Correctora de estilo',
+        centro:
+          'Centro para la Industria y la Comunicación Gráfica – Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -397,43 +366,37 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Eulises Orduz Amezquita ',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Edgar Mauricio Cortés García',
         cargo: 'Desarrollo Front-End',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
+        nombre: 'Magdi Khalifah Gamboa',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },

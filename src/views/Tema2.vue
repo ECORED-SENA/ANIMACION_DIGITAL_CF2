@@ -14,7 +14,7 @@
           figure.mb-4
             img(src='@/assets/curso/tema2/img01.svg') 
         .col-lg-7.d-flex.align-items-center
-          p.mb-4 Al igual que el storyboard, no hay un formato único para desarrollarlo, más bien responde a las necesidades del producto audiovisual y al equipo de producción. En este documento, a partir del guion literario, se planean cada uno de los planos que compondrán las secuencias, describiendo el tipo de plano, ángulo, movimientos de cámara, sonidos, efectos especiales, diálogos y duración.
+          p.mb-4 Al igual que el <i>storyboard</i>, no hay un formato único para desarrollarlo, más bien responde a las necesidades del producto audiovisual y al equipo de producción. En este documento, a partir del guion literario, se planean cada uno de los planos que compondrán las secuencias, describiendo el tipo de plano, ángulo, movimientos de cámara, sonidos, efectos especiales, diálogos y duración.
       
 
     .tabla-a.color-acento-botones.mb-5 
@@ -35,7 +35,7 @@
           tr
             td.text-center 1
             td.text-center 1
-            td(colspan=4) Plano entero (FS). Leve Dolly in hacia el personaje. El personaje mira su reloj y se ve un poco preocupado.
+            td(colspan=4) Plano entero (FS). Leve <i>Dolly</i><i> in </i>hacia el personaje. El personaje mira su reloj y se ve un poco preocupado.
             td.text-center Normal
             td.text-center 35 mm
             td(colspan=2) Personaje 1 - ¿Qué habrá asado? Humm...
@@ -45,7 +45,7 @@
 
     .row.justify-content-center
       .col-lg-8
-        p.mb-5.text-center <b>El guion técnico puede ser complementado con otra columna denominada plano de planta, donde se describe de forma gráfica la ubicaciónde los personajes y la cámara, como se muestra a continuación:</b>
+        p.mb-5.text-center <b>El guion técnico puede ser complementado con otra columna denominada plano de planta, donde se describe de forma gráfica la ubicación de los personajes y la cámara, como se muestra a continuación:</b>
     
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -68,7 +68,7 @@
               img(src='@/assets/curso/num1.svg') 
           .col-lg-11.pt-2
             p.mb-1 <b>Secuencia</b>
-            p.mb-0 Es una unidad narrativa e independiente que posee significado. Tiene su propio inicio, desarrollo y conclusión de una situación dramática. La secuencia puede desarrollarse en un escenario o en varios, así como también puede estar compuesto por una o varias escenas. Puede desarrollarse de manera lineal o narrarse por fragmentos y mezclarse con otras secuencias (NOVASUR).
+            p.mb-0 Es una unidad narrativa e independiente que posee significado. Tiene su propio inicio, desarrollo y conclusión de una situación dramática. La secuencia puede desarrollarse en un escenario o en varios, así como también puede estar compuesto por una o varias escenas. Puede desarrollarse de manera lineal o narrarse por fragmentos y mezclarse con otras secuencias (NOVASUR, 2019).
             
         .row.mb-4
           .col-lg-1.p-0.d-flex.justify-content-end
@@ -84,7 +84,7 @@
               img(src='@/assets/curso/num3.svg') 
           .col-lg-11.pt-2
             p.mb-1 <b>Toma</b>
-            p.mb-4 Lapso de tiempo desde que el director dice “acción” y se comienza a grabar, hasta el momento que dice “corten” y se detiene. En una grabación existen muchas tomas hasta que un plano salga como el director lo desea. Más adelante, la toma correcta es seleccionada y combinada por edición (montaje) (NOVASUR).
+            p.mb-4 Lapso de tiempo desde que el director dice “acción” y se comienza a grabar, hasta el momento que dice “corten” y se detiene. En una grabación existen muchas tomas hasta que un plano salga como el director lo desea. Más adelante, la toma correcta es seleccionada y combinada por edición (montaje) (NOVASUR, 2019).
             p.mb-0 Usualmente en animación no hay tomas, dado que los planos que se animan se han planeado con rigor y no hay oportunidad, por tiempo y presupuesto, de hacer varias tomas para una misma acción narrativa.
 
         .row.mb-4
