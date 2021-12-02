@@ -308,7 +308,7 @@
                   .row.justify-content-center.pb-2.mb-4.num-bor
                     .col-2.pe-0
                       figure.num
-                        img(src='@/assets/curso/num9.svg') 
+                        img(src='@/assets/curso/num10.svg') 
                     .col-10.ps-0.pt-2
                       h3.mb-0 Cierre
                   

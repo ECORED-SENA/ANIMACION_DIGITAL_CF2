@@ -23,7 +23,8 @@
           p.mb-0 Por otra parte, es posible usar <i>software</i> gratuitos como <span ><a style="color: #3D87E5" href='http://storyboardthat.com' target="_blank"><i>storyboardthat</i></a></span>. <b>Sin embargo, esta opción no es la más profesional y aconsejable</b>, dado que se limita a las opciones dadas por el programa y no siempre responde a las ideas del director, ni al estilo visual del proyecto.
       .col-lg-5.col-6.d-flex.align-items-center
         figure.mb-4
-          img(src='@/assets/curso/tema3/img02.svg') 
+          img(src='@/assets/curso/tema3/img04.png') 
+          figcaption Fotografías como ayuda al desarrollo del storyboard
 
     div.fondo(:style="{'background-image': `url(${require('@/assets/curso/tema2/img03.svg')})`}")
       div.t2-border.mb-5.py-5
