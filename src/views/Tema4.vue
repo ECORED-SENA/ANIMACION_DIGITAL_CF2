@@ -273,8 +273,8 @@
             h2 El punto
 
     figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .video        
+        iframe(width="1255" height="706" src="https://www.youtube.com/embed/Id2AwYC4Elc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-5 Es la unidad mínima de la comunicación gráfica y por tanto de donde se origina todo dibujó, según el uso que se le dé puede generar distintas sensaciones como por ejemplo al agruparlos uno detrás de otro de manera continua dan origen a la línea o al dispersarse sobre una superficie pueden dar la sensación de un plano. Sus cualidades gráficas dependen del soporte donde es plasmado, ya sea papel, tela, cartón, etc. y el instrumento usado para marcarlo al apoyarlo sobre la superficie, lápiz, bolígrafo, marcador, prima, etc.
     
@@ -327,8 +327,8 @@
             h2.mb-0 La línea
 
     figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .video      
+        iframe(width="1255" height="706" src="https://www.youtube.com/embed/8CmtfSWxzkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-4 En términos simples se trata de una sucesión continua de puntos, no existe físicamente, sino que se trata de la representación de un concepto plasmado sobre una superficie y es un elemento fundamental en el dibujo ya que ayuda a definir formas y volúmenes.
     p.mb-5 Básicamente existen dos tipos de líneas, las rectas y las curvas, aunque pueden tener más clasificaciones según su forma, su posición y las relaciones entre sí.
@@ -469,8 +469,8 @@
           p.mb-4 En el dibujo existen muchos tipos de perspectiva, pero a continuación el foco se dará en las más usadas en el entorno artístico que se valen de la línea de horizonte la cual es una analogía de la línea recta en la lejanía que separa el mar o la tierra del cielo, por otro lado hace uso de puntos de fuga, que son puntos donde convergen las líneas proyectadas hacia el horizonte para crear la sensación de profundidad, los cuales se ubican sobre la línea de horizonte para el caso de las perspectivas de 1 y 2 puntos o en algún lugar sobre o bajo la línea de horizonte para el caso de la perspectiva de 3 puntos de fuga.
     
     figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .video      
+        iframe(width="1255" height="706" src="https://www.youtube.com/embed/gipXIjgR9_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
     div.t4-fondo3.pt-3

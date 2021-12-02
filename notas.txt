@@ -23,8 +23,6 @@ H8 - Al parecer es un error del componente que hay que revisar
 H9 - No se encuentran los enlaces correspondientes. Donde estan?
 
 Diseñador
-H15 - Por favor revisar la imagén que sugiere el experto y colocar la descripción
-H16 - No se encuentra los link de los recursos al final del tema
-H23 - Se requiere que el diseñador proporcione viñeta para el numero 10
+
 
 

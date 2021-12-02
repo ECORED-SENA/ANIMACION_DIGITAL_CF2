@@ -87,19 +87,19 @@
 
     .row.justify-content-center
       .col-lg-7
-        a.t1.anexo.mb-4(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.t1.anexo.mb-4(href="http://www.floobynooby.com/comp1.html#anchor" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/link.svg")
           .anexo__texto
             p <b>Recurso Web.</b> <i>Floobynooby</i> (2020), <i>Drawing & Composition for visual storytelling</i>.
 
-        a.t1.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.t1.anexo.mb-4(:href="obtenerLink('/downloads/animacion_web.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/pdf.svg")
           .anexo__texto
             p <b>Material complementario.</b> Ministerio de educación Argentina (2011), medios audiovisuales, animación en el aula.
 
-        a.t1.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.t1.anexo.mb-4(:href="obtenerLink('/downloads/Formato_Storyboard.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/pdf.svg")
           .anexo__texto

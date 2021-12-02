@@ -326,13 +326,13 @@
           p.mb-5 Para ampliar más acerca de un <i>Elevator Pitch</i> puede consultar desde el material complementario o desde la web algunos ejemplos que, aunque describen el discurso de un <i>pitch</i> con fines de financiación, aportan información valiosa y útil al momento de mostrar ideas de proyecto:
           .row.justify-content-center.mb-0
             .col-10
-              a.t5.anexo.mb-4(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+              a.t5.anexo.mb-4(href="https://www.youtube.com/watch?v=EsAkvzIoEvc" target="_blank")
                 .anexo__icono
                   img(src="@/assets/curso/link.svg")
                 .anexo__texto
                   p <b>Ejemplo.</b> Negocios y Empresa (2018, Cómo hacer un <i>Elevator Pitch</i> que enamore al Inversor.
 
-              a.t5.anexo.mb-4(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+              a.t5.anexo.mb-4(href="https://www.youtube.com/watch?v=2b3xG_YjgvI" target="_blank")
                 .anexo__icono
                   img(src="@/assets/curso/link.svg")
                 .anexo__texto

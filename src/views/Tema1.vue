@@ -409,19 +409,19 @@
               p.mb-5 Puede verificar desde una búsqueda en <i>internet</i> o desde el material complementario algunos de los siguientes vídeos en los cuales se presentan ejemplos de los diferentes planos, ángulos y movimientos de cámara.
               .row.justify-content-center.mb-0
                 .col-10
-                  a.t1.anexo.mb-4(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+                  a.t1.anexo.mb-4(href="https://www.youtube.com/watch?v=AN2I1CTn3rY" target="_blank")
                     .anexo__icono
                       img(src="@/assets/curso/link.svg")
                     .anexo__texto
                       p <b>Ejemplo.</b> La ciencia del Cine (2018), Planos y Movimientos de Cámara I.
 
-                  a.t1.anexo.mb-4(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+                  a.t1.anexo.mb-4(href="https://www.youtube.com/watch?v=ILRjN0b30Pc" target="_blank")
                     .anexo__icono
                       img(src="@/assets/curso/link.svg")
                     .anexo__texto
                       p <b>Ejemplo.</b> La ciencia del Cine (2019), Plano y Movimientos de Cámara II: Angulación.
 
-                  a.t1.anexo.mb-4(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+                  a.t1.anexo.mb-4(href="https://www.youtube.com/watch?v=dBPjG2YipY4" target="_blank")
                     .anexo__icono
                       img(src="@/assets/curso/link.svg")
                     .anexo__texto
@@ -511,7 +511,7 @@
               p.mb-5 Se debe tener en cuenta la continuidad en espacio, tiempo, iluminación y vestuario. Uno de los principales es el espacio, el cual nos dice que, si un personaje sale de plano por un lado del encuadre, en el siguiente plano deberá entrar por el lado contrario. (MARQUÈS, 1995).
               .row.justify-content-center.mb-0
                 .col-10
-                  a.t1.anexo.mb-4(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+                  a.t1.anexo.mb-4(href="https://www.youtube.com/watch?v=ew5WzvL-fEk" target="_blank")
                     .anexo__icono
                       img(src="@/assets/curso/link.svg")
                     .anexo__texto
@@ -524,7 +524,7 @@
               p.mb-5 El ritmo está condicionado entonces por el ritmo interno del plano, dado por las acciones que en él suceden, así como también por el encuadre, la variación de centros de interés, el movimiento de la cámara o del zoom, y la combinación con los planos anteriores y posteriores (Fernández, F. Martínez, J. 1999).
               .row.justify-content-center.mb-0
                 .col-10
-                  a.t1.anexo.mb-4(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+                  a.t1.anexo.mb-4(href="https://www.youtube.com/watch?v=YwJaz7tXq1Y" target="_blank")
                     .anexo__icono
                       img(src="@/assets/curso/link.svg")
                     .anexo__texto
