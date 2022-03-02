@@ -255,7 +255,7 @@ export default {
       texto:
         'La ciencia del Cine (2019). Plano y Movimientos de Cámara II: Angulación.',
       tipo: 'Video',
-      link: 'Vídeo	https://youtu.be/ILRjN0b30Pc',
+      link: 'https://youtu.be/ILRjN0b30Pc',
     },
     {
       texto:
@@ -278,21 +278,9 @@ export default {
     },
     {
       texto:
-        'AprenderCine.com (2017), Salto de eje y eje de acción en el cine.',
-      tipo: 'Página web',
-      link: 'https://aprendercine.com/salto-de-eje/ ',
-    },
-    {
-      texto:
         'Toby Kearton (2016),Taxi Driver (1976) | Scene and Storyboard Comparison',
       tipo: 'Video',
       link: 'https://youtu.be/Ydl6wQnEQYg ',
-    },
-    {
-      texto:
-        'Floobynooby (2020), Drawing & Composition for visual storytelling.',
-      tipo: 'Página web',
-      link: 'http://www.floobynooby.com/comp1.html#anchor',
     },
     {
       texto: 'AllahOfw0ne (2006), "The untimely death of Pudge the fish".',

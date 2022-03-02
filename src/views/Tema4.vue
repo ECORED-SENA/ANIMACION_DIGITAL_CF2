@@ -209,7 +209,7 @@
                 figure
                   img(src='@/assets/curso/tema4/img24.png')
             h3.text-center Corel Painter
-            p.text-small Es un programa pago muy potente de pintura digital disponible para <i>Windows</i> y macOS, ofrece alternativas de único pago y suscripción y prueba gratis de 30 días.
+            p.text-small Es un programa de pago muy potente de pintura digital disponible para <i>Windows</i> y macOS, ofrece alternativas de único pago y suscripción y prueba gratis de 30 días.
 
       .col-lg-3.d-flex
         a(href="https://www.coreldraw.com/la/" target="_blank").d-flex
@@ -528,7 +528,7 @@
         figure.mb-5
           img(src='@/assets/curso/tema4/img50.png') 
         p.mb-4 Una manera de hacer bocetos rápidos de un personaje, ya sea como exploración al momento de diseñar o para ver distintas actitudes de un diseño ya establecido es el uso de figuras geométricas básicas y líneas de acción.
-        p.mb-4 La abstracción consiste en la simplificación de volúmenes complejos de forma que con pocos trazos y el uso de figuras básicas como cuadrados, círculos, rectángulos, triángulos óvalos y demás se logre capturar la esencia elemental del personaje.
+        p.mb-4 La abstracción consiste en la simplificación de volúmenes complejos de forma que con pocos trazos y el uso de figuras básicas como cuadrados, círculos, rectángulos, triángulos, óvalos y demás se logre capturar la esencia elemental del personaje.
         p En este orden de ideas si un personaje es delgado van a prevalecer en su construcción formas como los rectángulos, en el caso de un personaje obeso las figuras que más resalta seguramente serán círculos y óvalos, para un personaje de gran musculatura pueden aparecer muchos óvalos mezclados con cuadrados y trapecios y así indefinidamente dependiendo de la fisonomía que se desee representar.
     
     div.p-0.t4-bloque10

@@ -38,7 +38,7 @@
             td(colspan=4) Plano entero (FS). Leve <i>Dolly</i><i> in </i>hacia el personaje. El personaje mira su reloj y se ve un poco preocupado.
             td.text-center Normal
             td.text-center 35 mm
-            td(colspan=2) Personaje 1 - ¿Qué habrá asado? Humm...
+            td(colspan=2) Personaje 1 - ¿Qué habrá pasado? Humm...
             td(colspan=2) Música de tensión. Sonido de las manecillas del reloj.
             td.text-center 5"
             td.text-center 5"

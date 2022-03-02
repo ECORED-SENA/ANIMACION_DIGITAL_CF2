@@ -62,13 +62,14 @@
               p.mb-0 Pretende crear o producir una sensación de belleza, armonía, agrado y gracia.
 
     p.mb-5.text-center <b>Ahora, es bueno profundizar en el aspecto sintáctico del lenguaje audiovisual, pese a que este tiene un valor técnico, trabaja en conjunto con el aspecto semántico. Es así como, cada elección de plano o ángulo responderá a las emociones, sentimientos e información que se quiera transmitir a los espectadores. (CAR, 2011) :</b>
-
-    LineaTiempoD.color-primario
-      .row(numero="1" titulo="Campo")
+    .row.justify-content-center.align-items-center
+      .col-11
+    LineaTiempoD.color-primario.mb-5
+      .row.justify-content-center.align-items-center(numero="1" titulo="Campo")
         p.mb-0 Es el espacio, entorno o escenario.
-      .row(numero="2" titulo="Encuadre")
+      .row.justify-content-center.align-items-center(numero="2" titulo="Encuadre")
         p.mb-0 Es el límite físico que recorta un fragmento del campo dentro de un rectángulo, de acuerdo con una posición y ángulo de visión concretos.
-      .row(numero="3" titulo="Formato o relación de aspecto")
+      .row.justify-content-center.align-items-center(numero="3" titulo="Formato o relación de aspecto")
         p.mb-5 Es la proporción de ancho y alto del encuadre. Existen dos formatos estándar: formato 4:3 y 16:9. Originalmente estas relaciones responden a la proporción de la pantalla de televisión y a la del cine, respectivamente. Hoy día obedece más a criterios estéticos del director. (CÁMARA, 2006)
         .row.justify-content-center.mb-5
           .col-lg-8
@@ -86,8 +87,7 @@
               h4.text-regular.bloque-texto-f__texto Podría decirse que la cámara equivale al ojo humano, y dentro de una producción audiovisual, el director ‘manipula’ al público, mostrándole la realidad que al director interesa y de la manera que él desea. Para esto se vale de los tipos de planos, ángulos y movimientos de cámara. 
               .bloque-texto-f__autor.mb-3
                 p.mb-0 <b>-  (ACEITUNO, 2010)</b>
-            
-      .div(numero="4" titulo="Plano")
+      .row.justify-content-center.align-items-center(numero="4" titulo="Plano")
         p.mb-5 Es la unidad narrativa más pequeña con significado. Se pueden dividir según su ángulo de corte (CÁMARA, 2006), usualmente tomando como referencia la figura humana.
         SlyderA.pb-4
           .row.justify-content-center.mb-0
@@ -173,134 +173,124 @@
                 .col-11.ps-0.pt-2
                   h3.mb-0 Primerísimo Primer Plano/ Plano Detalle/ <i>Extreme</i> <i>Close Up</i> (ECU)
               p.mb-0 Recoge un fragmento o detalle de un objeto o personaje. Es un plano expresivo que funciona para remarcar detalles o acciones que con otro tipo de planos pasarían desapercibidos.
-                        
-      .row(numero="5" titulo="Ángulo")
+
+      .row.justify-content-center.align-items-center(numero="5" titulo="Ángulo")
         p.mb-5 Es el que determina el punto de vista de la cámara, que provee un recurso expresivo al momento de mostrar el aspecto psicológico de un plano.
-        SlyderA.pb-4
-          .row.justify-content-center.mb-0
-            .col-lg-3.col-6
-              figure.mb-4
-                img(src='@/assets/curso/tema1/img15.svg') 
-            .col-lg-7.d-flex.align-items-center
-              div
-                .row.justify-content-star.pb-2.mb-4.num-bor.m-0
-                  .col-1.p-0.celnum
-                    figure.num
-                      img(src='@/assets/curso/num1.svg') 
-                  .col-10.ps-1.pt-2
-                    h3.mb-0 Normal o nivel de horizonte
-                p.mb-0 La cámara se encuentra a la altura del horizonte o los ojos del personaje. Brinda naturalidad y estabilidad, dado que es un punto de vista cercano a la realidad.<br>(CÁMARA, 2006)
+     
+        SlyderA.pb-4 
+          .row.justify-content-center.align-items-center
+            .row.justify-content-center.align-items-center       
+              .col-lg-11
+                .row.justify-content-center.align-items-center
+                  .col-lg-3
+                    img.img-a.img-t(src='@/assets/curso/tema1/img15.svg')
+                  .col-lg-7
+                    .row.justify-content-star.pb-2.mb-4.num-bor.m-0
+                      .col-1.p-0.celnum
+                        figure.num
+                          img(src='@/assets/curso/num1.svg') 
+                      .col-10.ps-1.pt-2
+                        h3.mb-0 Normal o nivel de horizonte            
+                    p.mb-0 La cámara se encuentra a la altura del horizonte o los ojos del personaje. Brinda naturalidad y estabilidad, dado que es un punto de vista cercano a la realidad.<br>(CÁMARA, 2006)
 
-          .row.justify-content-center.mb-0
-            .col-lg-3.col-6
-              figure.mb-4
-                img(src='@/assets/curso/tema1/img16.svg') 
-            .col-lg-7.d-flex.align-items-center
-              div
-                .row.justify-content-star.pb-2.mb-4.num-bor.m-0
-                  .col-1.p-0.celnum
-                    figure.num
-                      img(src='@/assets/curso/num2.svg') 
-                  .col-10.ps-1.pt-2
-                    h3.mb-0 Picado (vista de pájaro)
+                .row.justify-content-center.align-items-center.mt-5
+                  .col-lg-3
+                      img.img-a.img-t(src='@/assets/curso/tema1/img16.svg') 
+                  .col-lg-7
+                    .row.justify-content-star.pb-2.mb-4.num-bor.m-0
+                      .col-1.p-0.celnum
+                        figure.num
+                          img(src='@/assets/curso/num2.svg') 
+                      .col-10.ps-1.pt-2
+                        h3.mb-0 Picado (vista de pájaro)
                     p.mb-0 La cámara está por encima de la línea de horizonte y fija su objetivo hacia abajo. Este ángulo es útil, junto con un ELS, para mostrar paisajes. Si se usa en un FS y un personaje, se venderá la idea de inferioridad o vulnerabilidad.
+          .row.justify-content-center.align-items-center       
+            .col-lg-11
+              .row.justify-content-center.align-items-center
+                .col-lg-3
+                  img.img-a.img-t(src='@/assets/curso/tema1/img17.svg') 
+                .col-lg-7
+                  .row.justify-content-star.pb-2.mb-4.num-bor.m-0
+                    .col-1.p-0.celnum
+                      figure.num
+                        img(src='@/assets/curso/num3.svg') 
+                    .col-10.ps-1.pt-2
+                      h3.mb-0  Cenital
+                  p.mb-0 La cámara se encuentra paralela al suelo. Suelen ser planos descriptivos, para mostrar una ubicación o el desplazamiento de un personaje dentro del escenario.
 
-          .row.justify-content-center.mb-0
-            .col-lg-3.col-6
-              figure.mb-4
-                img(src='@/assets/curso/tema1/img17.svg') 
-            .col-lg-7.d-flex.align-items-center
-              div
-                .row.justify-content-star.pb-2.mb-4.num-bor.m-0
-                  .col-1.p-0.celnum
-                    figure.num
-                      img(src='@/assets/curso/num3.svg') 
-                  .col-10.ps-1.pt-2
-                    h3.mb-0  Cenital
-                    p.mb-0 La cámara se encuentra paralela al suelo. Suelen ser planos descriptivos, para mostrar una ubicación o el desplazamiento de un personaje dentro del escenario.
+              .row.justify-content-center.align-items-center.mt-5
+                .col-lg-3
+                  img.img-a.img-t(src='@/assets/curso/tema1/img18.svg') 
+                .col-lg-7
+                  .row.justify-content-star.pb-2.mb-4.num-bor.m-0
+                    .col-1.p-0.celnum
+                      figure.num
+                        img(src='@/assets/curso/num4.svg') 
+                    .col-10.ps-1.pt-2
+                      h3.mb-0 Contrapicado
+                  p.mb-0 La cámara está ubicada por debajo de la línea de horizonte. Este punto de vista brinda la sensación de superioridad o importancia.
+          .row.justify-content-center.align-items-center       
+            .col-lg-11
+              .row.justify-content-center.align-items-center
+                .col-lg-3
+                  img.img-a.img-t(src='@/assets/curso/tema1/img19.svg') 
+                .col-lg-7
+                  .row.justify-content-star.pb-2.mb-4.num-bor.m-0
+                    .col-1.p-0.celnum
+                      figure.num
+                        img(src='@/assets/curso/num5.svg') 
+                    .col-10.ps-1.pt-2
+                      h3.mb-0 Nadir
+                  p.mb-0 La cámara se coloca bajo el suelo y se exagera la sensación del ángulo en contrapicado.
 
-          .row.justify-content-center.mb-0
-            .col-lg-3.col-6
-              figure.mb-4
-                img(src='@/assets/curso/tema1/img18.svg') 
-            .col-lg-7.d-flex.align-items-center
-              div
-                .row.justify-content-star.pb-2.mb-4.num-bor.m-0
-                  .col-1.p-0.celnum
-                    figure.num
-                      img(src='@/assets/curso/num4.svg') 
-                  .col-10.ps-1.pt-2
-                    h3.mb-0 Contrapicado
-                    p.mb-0 La cámara está ubicada por debajo de la línea de horizonte. Este punto de vista brinda la sensación de superioridad o importancia.
-                             
-          .row.justify-content-center.mb-0
-            .col-lg-3.col-6
-              figure.mb-4
-                img(src='@/assets/curso/tema1/img19.svg') 
-            .col-lg-7.d-flex.align-items-center
-              div
-                .row.justify-content-star.pb-2.mb-4.num-bor.m-0
-                  .col-1.p-0.celnum
-                    figure.num
-                      img(src='@/assets/curso/num5.svg') 
-                  .col-10.ps-1.pt-2
-                    h3.mb-0 Nadir
-                    p.mb-0 La cámara se coloca bajo el suelo y se exagera la sensación del ángulo en contrapicado.
-                
-          .row.justify-content-center.mb-0
-            .col-lg-3.col-6
-              figure.mb-4
-                img(src='@/assets/curso/tema1/img20.svg') 
-            .col-lg-7.d-flex.align-items-center
-              div
-                .row.justify-content-star.pb-2.mb-4.num-bor.m-0
-                  .col-1.p-0.celnum
-                    figure.num
-                      img(src='@/assets/curso/num6.svg') 
-                  .col-10.ps-1.pt-2
-                    h3.mb-0 Tres cuartos
-                    p.mb-0 El personaje u objeto aparece ligeramente girado en el eje horizontal. Suele usarse para romper el efecto de <i>twinning</i> o espejo y brindar sensación de profundidad              
-
-          .row.justify-content-center.mb-0
-            .col-lg-3.col-6
-              figure.mb-4
-                img(src='@/assets/curso/tema1/img21.svg') 
-            .col-lg-7.d-flex.align-items-center
-              div
-                .row.justify-content-star.pb-2.mb-4.num-bor.m-0
-                  .col-1.p-0.celnum
-                    figure.num
-                      img(src='@/assets/curso/num7.svg') 
-                  .col-10.ps-1.pt-2
-                    h3.mb-0 Sobre el hombro
-                    p.mb-0 Es un tipo de angulación ideal para mostrar las conversaciones de los personajes.
-                
-          .row.justify-content-center.mb-0
-            .col-lg-3.col-6
-              figure.mb-4
-                img(src='@/assets/curso/tema1/img22.svg') 
-            .col-lg-7.d-flex.align-items-center
-              div
-                .row.justify-content-star.pb-2.mb-4.num-bor.m-0
-                  .col-1.p-0.celnum
-                    figure.num
-                      img(src='@/assets/curso/num8.svg') 
-                  .col-10.ps-1.pt-2
-                    h3.mb-0 Espaldas
-                    p.mb-0 La cámara se encuentra ubicada literalmente a la espalda del personaje.                
-
-          .row.justify-content-center.mb-0
-            .col-lg-3.col-6
-              figure.mb-4
-                img(src='@/assets/curso/tema1/img23.svg') 
-            .col-lg-7.d-flex.align-items-center
-              div
-                .row.justify-content-star.pb-2.mb-4.num-bor.m-0
-                  .col-1.p-0.celnum
-                    figure.num
-                      img(src='@/assets/curso/num9.svg') 
-                  .col-10.ps-1.pt-2
-                    h3.mb-0 Oblicuo 
+              .row.justify-content-center.align-items-center.mt-5
+                .col-lg-3
+                  img.img-a.img-t(src='@/assets/curso/tema1/img20.svg') 
+                .col-lg-7
+                  .row.justify-content-star.pb-2.mb-4.num-bor.m-0
+                    .col-1.p-0.celnum
+                      figure.num
+                        img(src='@/assets/curso/num6.svg') 
+                    .col-10.ps-1.pt-2
+                      h3.mb-0 Tres cuartos
+                  p.mb-0 El personaje u objeto aparece ligeramente girado en el eje horizontal. Suele usarse para romper el efecto de <i>twinning</i> o espejo y brindar sensación de profundidad              
+          .row.justify-content-center.align-items-center       
+            .col-lg-11
+              .row.justify-content-center.align-items-center
+                .col-lg-3
+                  img.img-a.img-t(src='@/assets/curso/tema1/img21.svg') 
+                .col-lg-7
+                  .row.justify-content-star.pb-2.mb-4.num-bor.m-0
+                    .col-1.p-0.celnum
+                      figure.num
+                        img(src='@/assets/curso/num7.svg') 
+                    .col-10.ps-1.pt-2
+                      h3.mb-0 Sobre el hombro
+                  p.mb-0 Es un tipo de angulación ideal para mostrar las conversaciones de los personajes.
+                    
+              .row.justify-content-center.align-items-center.mt-5
+                .col-lg-3
+                  img.img-a.img-t(src='@/assets/curso/tema1/img22.svg') 
+                .col-lg-7
+                  .row.justify-content-star.pb-2.mb-4.num-bor.m-0
+                    .col-1.p-0.celnum
+                      figure.num
+                        img(src='@/assets/curso/num8.svg') 
+                    .col-10.ps-1.pt-2
+                      h3.mb-0 Espaldas
+                  p.mb-0 La cámara se encuentra ubicada literalmente a la espalda del personaje.                
+          .row.justify-content-center.align-items-center       
+            .col-lg-11
+              .row.justify-content-center.align-items-center
+                .col-lg-3
+                  img.img-a.img-t(src='@/assets/curso/tema1/img23.svg') 
+                .col-lg-7
+                  .row.justify-content-star.pb-2.mb-4.num-bor.m-0
+                    .col-1.p-0.celnum
+                      figure.num
+                        img(src='@/assets/curso/num9.svg') 
+                    .col-10.ps-1.pt-2
+                      h3.mb-0 Oblicuo 
                     p.mb-0 También denominado plano holandés, donde la cámara está inclinada, de tal manera que la imagen parece torcida. Esto genera una sensación de inestabilidad e inseguridad.
                 
       .row(numero="6" titulo="Movimientos de cámara")
